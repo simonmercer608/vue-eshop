@@ -1,4 +1,5 @@
 # Vue E-Shop
+# 114 Team deveolpers
 
 A full-stack ecommerce website built with **Vue.js**, **FastAPI**, **MongoDB**, and **Redis**.
 
